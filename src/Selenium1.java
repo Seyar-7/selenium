@@ -17,7 +17,7 @@ public class Selenium1 {
 		
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-		System.out.println("hello world");
+		System.out.println("hello world11");
 		
 		/*
 		  
