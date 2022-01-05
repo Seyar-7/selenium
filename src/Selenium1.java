@@ -18,7 +18,7 @@ public class Selenium1 {
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		System.out.println("hello world11");
-		
+		System.out.println("hello wolrd 2);
 		/*
 		  
 		 Note:when we start frameworks,we will be using selenium 3 not 4 , since some of the libraries may
