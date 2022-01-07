@@ -12,6 +12,7 @@ public class random {
 		Scanner scan = new Scanner(System.in);
 		String yes ="";
 		
+		System.out.println("Hello seyar");
 		 name1 = name();
 		 last = last();
 		System.out.println(name1+" "+last);
